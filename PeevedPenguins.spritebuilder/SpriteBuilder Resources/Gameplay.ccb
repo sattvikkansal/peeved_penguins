@@ -55,8 +55,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>217.76953125</real>
-						<real>116.17578125</real>
+						<real>226.76953125</real>
+						<real>102.17578125</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -267,8 +267,6 @@
 					<real>500</real>
 				</dict>
 			</array>
-			<key>selected</key>
-			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -513,8 +511,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>230.58306884765625</real>
-											<real>189.58686828613281</real>
+											<real>239.58306884765625</real>
+											<real>175.58686828613281</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -612,24 +610,36 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>18.382137298583984</real>
-											<real>9.562286376953125</real>
+											<real>16.400058746337891</real>
+											<real>11.8125</real>
 										</array>
 										<array>
 											<real>-1.8920803070068359</real>
 											<real>43.264945983886719</real>
 										</array>
 										<array>
-											<real>69.412574768066406</real>
-											<real>83.065086364746094</real>
+											<real>63.693031311035156</real>
+											<real>52.992202758789062</real>
+										</array>
+										<array>
+											<real>60.079750061035156</real>
+											<real>74.625</real>
+										</array>
+										<array>
+											<real>100.41178894042969</real>
+											<real>75.625</real>
 										</array>
 										<array>
 											<real>153.00572204589844</real>
 											<real>53.811279296875</real>
 										</array>
 										<array>
-											<real>214.34283447265625</real>
-											<real>39.874240875244141</real>
+											<real>183.16569519042969</real>
+											<real>52.378921508789062</real>
+										</array>
+										<array>
+											<real>215.60708618164062</real>
+											<real>32.753913879394531</real>
 										</array>
 										<array>
 											<real>217.33602905273438</real>
@@ -644,8 +654,12 @@
 												<real>19.073875427246094</real>
 											</array>
 											<array>
-												<real>214.34283447265625</real>
-												<real>39.874240875244141</real>
+												<real>215.60708618164062</real>
+												<real>32.753913879394531</real>
+											</array>
+											<array>
+												<real>183.16569519042969</real>
+												<real>52.378921508789062</real>
 											</array>
 											<array>
 												<real>153.00572204589844</real>
@@ -658,20 +672,38 @@
 												<real>53.811279296875</real>
 											</array>
 											<array>
-												<real>69.412574768066406</real>
-												<real>83.065086364746094</real>
+												<real>100.41178894042969</real>
+												<real>75.625</real>
+											</array>
+											<array>
+												<real>60.079750061035156</real>
+												<real>74.625</real>
+											</array>
+											<array>
+												<real>63.693031311035156</real>
+												<real>52.992202758789062</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>63.693031311035156</real>
+												<real>52.992202758789062</real>
 											</array>
 											<array>
 												<real>-1.8920803070068359</real>
 												<real>43.264945983886719</real>
 											</array>
 											<array>
-												<real>18.382137298583984</real>
-												<real>9.562286376953125</real>
+												<real>16.400058746337891</real>
+												<real>11.8125</real>
 											</array>
 											<array>
 												<real>217.33602905273438</real>
 												<real>19.073875427246094</real>
+											</array>
+											<array>
+												<real>153.00572204589844</real>
+												<real>53.811279296875</real>
 											</array>
 										</array>
 									</array>
@@ -749,6 +781,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
