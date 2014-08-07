@@ -264,7 +264,7 @@
 					<key>type</key>
 					<string>Float</string>
 					<key>value</key>
-					<real>400</real>
+					<real>200</real>
 				</dict>
 			</array>
 			<key>selected</key>
