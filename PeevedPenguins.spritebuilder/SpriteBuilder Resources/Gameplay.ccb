@@ -56,7 +56,7 @@
 					<key>value</key>
 					<array>
 						<real>226.76953125</real>
-						<real>102.17578125</real>
+						<real>124.17578125</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -422,8 +422,8 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>0.0</real>
-											<real>0.0</real>
+											<real>1.0575714111328125</real>
+											<real>11.155319213867188</real>
 										</array>
 										<array>
 											<real>-2.6025164127349854</real>
@@ -446,8 +446,8 @@
 											<real>108.83183288574219</real>
 										</array>
 										<array>
-											<real>16.876657485961914</real>
-											<real>-0.84071707725524902</real>
+											<real>17.68255615234375</real>
+											<real>9.9600067138671875</real>
 										</array>
 									</array>
 									<key>polygons</key>
@@ -458,12 +458,12 @@
 												<real>137.05673217773438</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>0.0</real>
+												<real>1.0575714111328125</real>
+												<real>11.155319213867188</real>
 											</array>
 											<array>
-												<real>16.876657485961914</real>
-												<real>-0.84071707725524902</real>
+												<real>17.68255615234375</real>
+												<real>9.9600067138671875</real>
 											</array>
 											<array>
 												<real>17.85295295715332</real>
@@ -512,7 +512,7 @@
 										<key>value</key>
 										<array>
 											<real>239.58306884765625</real>
-											<real>175.58686828613281</real>
+											<real>197.58686828613281</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -567,6 +567,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -781,8 +783,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
