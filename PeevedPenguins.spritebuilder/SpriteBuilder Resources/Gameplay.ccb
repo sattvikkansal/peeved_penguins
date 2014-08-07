@@ -213,8 +213,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>12.973716735839844</real>
-						<real>142.6771240234375</real>
+						<real>31.807571411132812</real>
+						<real>157.70610046386719</real>
 					</array>
 				</dict>
 				<dict>
@@ -264,7 +264,7 @@
 					<key>type</key>
 					<string>Float</string>
 					<key>value</key>
-					<real>200</real>
+					<real>100</real>
 				</dict>
 			</array>
 			<key>selected</key>
@@ -1066,7 +1066,7 @@
 									<key>allowsRotation</key>
 									<true/>
 									<key>bodyShape</key>
-									<integer>0</integer>
+									<integer>1</integer>
 									<key>collisionCategories</key>
 									<array/>
 									<key>collisionMask</key>
@@ -1074,7 +1074,7 @@
 									<key>collisionType</key>
 									<string></string>
 									<key>cornerRadius</key>
-									<real>0.0</real>
+									<real>4.6484527587890625</real>
 									<key>density</key>
 									<real>1</real>
 									<key>dynamic</key>
@@ -1086,43 +1086,12 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>0.0</real>
-											<real>0.0</real>
-										</array>
-										<array>
-											<real>0.0</real>
-											<real>32</real>
-										</array>
-										<array>
-											<real>32</real>
-											<real>32</real>
-										</array>
-										<array>
-											<real>32</real>
-											<real>0.0</real>
+											<real>0.8828125</real>
+											<real>12.71484375</real>
 										</array>
 									</array>
 									<key>polygons</key>
-									<array>
-										<array>
-											<array>
-												<real>32</real>
-												<real>0.0</real>
-											</array>
-											<array>
-												<real>32</real>
-												<real>32</real>
-											</array>
-											<array>
-												<real>0.0</real>
-												<real>32</real>
-											</array>
-											<array>
-												<real>0.0</real>
-												<real>0.0</real>
-											</array>
-										</array>
-									</array>
+									<array/>
 								</dict>
 								<key>properties</key>
 								<array>
