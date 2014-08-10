@@ -10,6 +10,8 @@
 #import "Penguin.h"
 #import "CCPhysics+ObjectiveChipmunk.h"
 
+static const float MIN_SPEED = 5.f;
+
 @implementation Gameplay{
     CCPhysicsNode *_physicsNode;
     CCNode *_catapultArm;
@@ -21,8 +23,6 @@
     Penguin *_currentPenguin;
     CCPhysicsJoint *_penguinCatapultJoint;
     CCAction *_followPenguin;
-    
-    static const float MIN_SPEED = 5.f;
 }
 
 // is called when CCB file has completed loading
